@@ -13,7 +13,6 @@ public class User {
     public User() {}
 
     public User(String name, String location) {
-        this.id = id;
         this.name = name;
         this.location = location;
     }
